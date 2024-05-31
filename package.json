@@ -1,0 +1,19 @@
+{
+  "name": "itea-j30",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tea-tearepp/itea-j30.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tea-tearepp/itea-j30/issues"
+  },
+  "homepage": "https://github.com/tea-tearepp/itea-j30#readme"
+}
